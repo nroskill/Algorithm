@@ -1,10 +1,10 @@
-# 
-# https://leetcode.com/problems/delete-duplicate-emails/
-# By Nroskill
-# runtime 684 ms
-# language mysql
-# 
-
+# 
+# https://leetcode.com/problems/delete-duplicate-emails/
+# By Nroskill
+# runtime 684 ms
+# language mysql
+# 
+
 DELETE
 FROM Person
 WHERE

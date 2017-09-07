@@ -1,10 +1,10 @@
-/**
- * https://leetcode.com/problems/max-consecutive-ones/
- * By Nroskill
- * runtime 39 ms
- * language cpp
- */
-
+/**
+ * https://leetcode.com/problems/max-consecutive-ones/
+ * By Nroskill
+ * runtime 39 ms
+ * language cpp
+ */
+
 class Solution {
 public:
     int findMaxConsecutiveOnes(vector<int>& nums) {

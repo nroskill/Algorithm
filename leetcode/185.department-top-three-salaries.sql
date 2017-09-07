@@ -1,10 +1,10 @@
-# 
-# https://leetcode.com/problems/department-top-three-salaries/
-# By Nroskill
-# runtime 990 ms
-# language mysql
-# 
-
+# 
+# https://leetcode.com/problems/department-top-three-salaries/
+# By Nroskill
+# runtime 990 ms
+# language mysql
+# 
+
 SELECT
     a.Name AS Department, 
     b.Name AS Employee, 
